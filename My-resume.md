@@ -6,7 +6,7 @@ Sophomore Data Science student at Oregon State University with proficiency in R 
 
 ## Education
 ### Bachelor of Science: Data Science 
-Oregon State University - Corvallis, OR(Sep 2025 – Jun 2029)
+Oregon State University - Corvallis, OR (Sep 2025 – Jun 2029)
 - 4.0 GPA, Dean’s List - all terms                                                               (Fall 2025-Present)
 - WUE Scholarship
 - Relevant Coursework: Calculus Sequence (Differential, Integral, Vector), Intro to Statistical Methods I and II, Engineering Computation and Algorithmic Thinking
